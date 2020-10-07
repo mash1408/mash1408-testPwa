@@ -1,11 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "280312618454d5176d18",
-    "url": "css/5990237d.4a2a9e82.css"
+    "revision": "8901405580021b4bca16",
+    "url": "css/279fb851.f193637b.css"
   },
   {
-    "revision": "d481b908ff1f9f7f4846",
-    "url": "css/app.1f45c788.css"
+    "revision": "5ac3afe1561ef9e4d08e",
+    "url": "css/app.a8e822e4.css"
+  },
+  {
+    "revision": "ff2ab405aec4a64d91b0",
+    "url": "css/b25db32a.3cdeced8.css"
+  },
+  {
+    "revision": "d5b4ebff1115d2e902f6",
+    "url": "css/ba17911c.70cd6320.css"
   },
   {
     "revision": "5cb7edfceb233100075dc9a1e12e8da3",
@@ -40,36 +48,32 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "fonts/flUhRq6tzZclQEJ-Vdg-IuiaDsNcIhQ8tQ.0509ab09.woff2"
   },
   {
-    "revision": "c3e886514c633b21c81db623874d06cd",
-    "url": "img/quasar-logo-full.c3e88651.svg"
-  },
-  {
-    "revision": "5d06686039d838eff955b726f771f1bc",
+    "revision": "ef599b9ac66d1cf4ff091e7f698b4c89",
     "url": "index.html"
   },
   {
-    "revision": "7fae2486b2bc9ab07482",
-    "url": "js/2d22c0ff.cbdd12f1.js"
+    "revision": "8901405580021b4bca16",
+    "url": "js/279fb851.8c65b307.js"
   },
   {
-    "revision": "280312618454d5176d18",
-    "url": "js/5990237d.c9f189a9.js"
+    "revision": "648353c747433fd3ac73",
+    "url": "js/4b47640d.102f4cc9.js"
   },
   {
-    "revision": "3f7dacd2fc0d0ef2ab31",
-    "url": "js/7089f5c5.6cfbeb36.js"
+    "revision": "5ac3afe1561ef9e4d08e",
+    "url": "js/app.9841578a.js"
   },
   {
-    "revision": "d481b908ff1f9f7f4846",
-    "url": "js/app.31ecb81a.js"
+    "revision": "ff2ab405aec4a64d91b0",
+    "url": "js/b25db32a.561154e3.js"
   },
   {
-    "revision": "0aeceaf3b3541989d748",
-    "url": "js/f73ee9c4.439839bd.js"
+    "revision": "d5b4ebff1115d2e902f6",
+    "url": "js/ba17911c.1b47d4c6.js"
   },
   {
-    "revision": "367e014f6f31e772b912",
-    "url": "js/vendor.377e40c9.js"
+    "revision": "ef75263a4464fe6dac63",
+    "url": "js/vendor.4653edc8.js"
   },
   {
     "revision": "c5394e871cfa492a62ebc1515a30a95b",
@@ -136,11 +140,39 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "statics/icons/icon-512x512.png"
   },
   {
+    "revision": "045886cb23a76f412f5e12fcf39d8de1",
+    "url": "statics/icons/leaf-red.png"
+  },
+  {
+    "revision": "6e9bf5f4c3d137209f7905f27a7916db",
+    "url": "statics/icons/map-marker.png"
+  },
+  {
     "revision": "6624870bb64b1a562e8438e57cdc636a",
     "url": "statics/icons/ms-icon-144x144.png"
   },
   {
     "revision": "ba58d8b825312a31114fb91484dadbeb",
     "url": "statics/icons/safari-pinned-tab.svg"
+  },
+  {
+    "revision": "f5450ad39a4cf9df938cc548ed5a8069",
+    "url": "statics/parking-lot.jpg"
+  },
+  {
+    "revision": "d2834be4e893a0b1cf1a4a075d215a5c",
+    "url": "statics/undraw_Map_dark_k9pw.svg"
+  },
+  {
+    "revision": "08a19c98f8474a6836edf278e7d12ca8",
+    "url": "statics/undraw_connected_world_wuay.svg"
+  },
+  {
+    "revision": "d18788320fd01cbca092a9bce7a8aecc",
+    "url": "statics/undraw_download_files_aydf.svg"
+  },
+  {
+    "revision": "5d10d82ed91b33e888cc0ef65092a964",
+    "url": "statics/undraw_no_data_qbuo.svg"
   }
 ]);
